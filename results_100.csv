@@ -1,0 +1,501 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1740313348560,15,HTTP Request,200,OK,Thread Group 1-16,text,true,,340,158,37,37,http://localhost:3001/characters,15,0,4
+1740313348560,17,HTTP Request,200,OK,Thread Group 1-8,text,true,,340,158,37,37,http://localhost:3001/characters,17,0,4
+1740313348560,19,HTTP Request,200,OK,Thread Group 1-34,text,true,,340,158,37,37,http://localhost:3001/characters,19,0,4
+1740313348577,4,HTTP Request,200,OK,Thread Group 1-16,text,true,,273,159,37,37,http://localhost:3001/character/2,4,0,0
+1740313348577,5,HTTP Request,200,OK,Thread Group 1-8,text,true,,273,159,37,37,http://localhost:3001/character/2,5,0,0
+1740313348560,24,HTTP Request,200,OK,Thread Group 1-35,text,true,,340,158,37,37,http://localhost:3001/characters,24,0,5
+1740313348581,21,HTTP Request,201,Created,Thread Group 1-16,text,true,,281,228,39,39,http://localhost:3001/character,20,0,0
+1740313348582,23,HTTP Request,201,Created,Thread Group 1-8,text,true,,281,228,39,39,http://localhost:3001/character,23,0,0
+1740313348579,29,HTTP Request,200,OK,Thread Group 1-34,text,true,,273,159,40,40,http://localhost:3001/character/2,29,0,0
+1740313348560,48,HTTP Request,200,OK,Thread Group 1-11,text,true,,424,158,40,40,http://localhost:3001/characters,48,0,4
+1740313348602,8,HTTP Request,200,OK,Thread Group 1-16,text,true,,278,231,40,40,http://localhost:3001/character/1,8,0,0
+1740313348605,6,HTTP Request,200,OK,Thread Group 1-8,text,true,,278,231,40,40,http://localhost:3001/character/1,6,0,0
+1740313348608,4,HTTP Request,201,Created,Thread Group 1-34,text,true,,281,228,40,40,http://localhost:3001/character,4,0,0
+1740313348584,28,HTTP Request,200,OK,Thread Group 1-35,text,true,,273,159,40,40,http://localhost:3001/character/2,28,0,0
+1740313348561,52,HTTP Request,200,OK,Thread Group 1-33,text,true,,480,158,40,40,http://localhost:3001/characters,52,0,3
+1740313348611,5,HTTP Request,200,OK,Thread Group 1-16,text,true,,293,181,41,41,http://localhost:3001/character/3,5,0,0
+1740313348611,5,HTTP Request,404,Not Found,Thread Group 1-8,text,false,,273,181,40,40,http://localhost:3001/character/3,5,0,0
+1740313348612,5,HTTP Request,200,OK,Thread Group 1-34,text,true,,278,231,39,39,http://localhost:3001/character/1,5,0,0
+1740313348609,9,HTTP Request,200,OK,Thread Group 1-11,text,true,,273,159,39,39,http://localhost:3001/character/2,9,0,0
+1740313348560,58,HTTP Request,200,OK,Thread Group 1-1,text,true,,446,158,39,39,http://localhost:3001/characters,58,0,4
+1740313348613,8,HTTP Request,201,Created,Thread Group 1-35,text,true,,281,228,39,39,http://localhost:3001/character,8,0,0
+1740313348613,8,HTTP Request,200,OK,Thread Group 1-33,text,true,,273,159,39,39,http://localhost:3001/character/2,8,0,0
+1740313348560,62,HTTP Request,200,OK,Thread Group 1-32,text,true,,488,158,39,39,http://localhost:3001/characters,62,0,4
+1740313348622,3,HTTP Request,200,OK,Thread Group 1-35,text,true,,278,231,40,40,http://localhost:3001/character/1,3,0,0
+1740313348622,3,HTTP Request,201,Created,Thread Group 1-33,text,true,,281,228,40,40,http://localhost:3001/character,3,0,0
+1740313348622,4,HTTP Request,200,OK,Thread Group 1-32,text,true,,273,159,40,40,http://localhost:3001/character/2,4,0,0
+1740313348618,9,HTTP Request,404,Not Found,Thread Group 1-34,text,false,,273,181,40,40,http://localhost:3001/character/3,9,0,0
+1740313348618,9,HTTP Request,200,OK,Thread Group 1-1,text,true,,273,159,39,39,http://localhost:3001/character/2,9,0,0
+1740313348618,10,HTTP Request,201,Created,Thread Group 1-11,text,true,,281,228,39,39,http://localhost:3001/character,10,0,0
+1740313348563,66,HTTP Request,200,OK,Thread Group 1-36,text,true,,573,158,39,39,http://localhost:3001/characters,66,0,1
+1740313348625,4,HTTP Request,404,Not Found,Thread Group 1-35,text,false,,273,181,39,39,http://localhost:3001/character/3,4,0,0
+1740313348625,7,HTTP Request,200,OK,Thread Group 1-33,text,true,,278,231,38,38,http://localhost:3001/character/1,7,0,0
+1740313348626,6,HTTP Request,201,Created,Thread Group 1-32,text,true,,281,228,38,38,http://localhost:3001/character,6,0,0
+1740313348628,5,HTTP Request,201,Created,Thread Group 1-1,text,true,,282,228,38,38,http://localhost:3001/character,5,0,0
+1740313348561,72,HTTP Request,200,OK,Thread Group 1-19,text,true,,658,158,38,38,http://localhost:3001/characters,72,0,4
+1740313348632,2,HTTP Request,404,Not Found,Thread Group 1-33,text,false,,273,181,38,38,http://localhost:3001/character/3,2,0,0
+1740313348633,3,HTTP Request,200,OK,Thread Group 1-32,text,true,,278,231,38,38,http://localhost:3001/character/1,3,0,0
+1740313348629,8,HTTP Request,200,OK,Thread Group 1-36,text,true,,273,159,38,38,http://localhost:3001/character/2,8,0,0
+1740313348629,8,HTTP Request,200,OK,Thread Group 1-11,text,true,,278,231,38,38,http://localhost:3001/character/1,8,0,0
+1740313348560,79,HTTP Request,200,OK,Thread Group 1-17,text,true,,658,158,38,38,http://localhost:3001/characters,79,0,4
+1740313348636,6,HTTP Request,404,Not Found,Thread Group 1-32,text,false,,273,181,38,38,http://localhost:3001/character/3,6,0,0
+1740313348637,6,HTTP Request,404,Not Found,Thread Group 1-11,text,false,,273,181,37,37,http://localhost:3001/character/3,6,0,0
+1740313348637,7,HTTP Request,201,Created,Thread Group 1-36,text,true,,282,228,36,36,http://localhost:3001/character,7,0,0
+1740313348639,5,HTTP Request,200,OK,Thread Group 1-17,text,true,,273,159,36,36,http://localhost:3001/character/2,5,0,0
+1740313348633,12,HTTP Request,200,OK,Thread Group 1-19,text,true,,273,159,36,36,http://localhost:3001/character/2,12,0,0
+1740313348633,15,HTTP Request,200,OK,Thread Group 1-1,text,true,,278,231,37,37,http://localhost:3001/character/1,15,0,0
+1740313348561,87,HTTP Request,200,OK,Thread Group 1-25,text,true,,701,158,37,37,http://localhost:3001/characters,87,0,4
+1740313348644,6,HTTP Request,200,OK,Thread Group 1-36,text,true,,278,231,37,37,http://localhost:3001/character/1,6,0,0
+1740313348645,6,HTTP Request,201,Created,Thread Group 1-17,text,true,,282,228,38,38,http://localhost:3001/character,6,0,0
+1740313348645,7,HTTP Request,201,Created,Thread Group 1-19,text,true,,282,228,38,38,http://localhost:3001/character,7,0,0
+1740313348648,5,HTTP Request,404,Not Found,Thread Group 1-1,text,false,,273,181,38,38,http://localhost:3001/character/3,5,0,0
+1740313348648,6,HTTP Request,200,OK,Thread Group 1-25,text,true,,273,159,37,37,http://localhost:3001/character/2,6,0,0
+1740313348560,94,HTTP Request,200,OK,Thread Group 1-18,text,true,,787,158,37,37,http://localhost:3001/characters,94,0,5
+1740313348650,7,HTTP Request,404,Not Found,Thread Group 1-36,text,false,,273,181,37,37,http://localhost:3001/character/3,7,0,0
+1740313348652,7,HTTP Request,200,OK,Thread Group 1-17,text,true,,278,231,36,36,http://localhost:3001/character/1,7,0,0
+1740313348652,8,HTTP Request,200,OK,Thread Group 1-19,text,true,,278,231,36,36,http://localhost:3001/character/1,8,0,0
+1740313348654,7,HTTP Request,201,Created,Thread Group 1-25,text,true,,282,228,36,36,http://localhost:3001/character,6,0,0
+1740313348654,8,HTTP Request,200,OK,Thread Group 1-18,text,true,,273,159,36,36,http://localhost:3001/character/2,8,0,0
+1740313348561,104,HTTP Request,200,OK,Thread Group 1-12,text,true,,830,158,37,37,http://localhost:3001/characters,104,0,4
+1740313348659,9,HTTP Request,404,Not Found,Thread Group 1-17,text,false,,273,181,37,37,http://localhost:3001/character/3,9,0,0
+1740313348660,10,HTTP Request,404,Not Found,Thread Group 1-19,text,false,,273,181,36,36,http://localhost:3001/character/3,10,0,0
+1740313348661,9,HTTP Request,200,OK,Thread Group 1-25,text,true,,278,231,35,35,http://localhost:3001/character/1,9,0,0
+1740313348662,8,HTTP Request,201,Created,Thread Group 1-18,text,true,,282,228,35,35,http://localhost:3001/character,8,0,0
+1740313348560,111,HTTP Request,200,OK,Thread Group 1-24,text,true,,873,158,35,35,http://localhost:3001/characters,111,0,5
+1740313348665,6,HTTP Request,200,OK,Thread Group 1-12,text,true,,273,159,35,35,http://localhost:3001/character/2,6,0,0
+1740313348670,4,HTTP Request,404,Not Found,Thread Group 1-25,text,false,,273,181,35,35,http://localhost:3001/character/3,4,0,0
+1740313348671,4,HTTP Request,200,OK,Thread Group 1-18,text,true,,278,231,34,34,http://localhost:3001/character/1,4,0,0
+1740313348671,4,HTTP Request,201,Created,Thread Group 1-12,text,true,,282,228,34,34,http://localhost:3001/character,4,0,0
+1740313348671,5,HTTP Request,200,OK,Thread Group 1-24,text,true,,273,159,34,34,http://localhost:3001/character/2,5,0,0
+1740313348560,116,HTTP Request,200,OK,Thread Group 1-27,text,true,,916,158,35,35,http://localhost:3001/characters,116,0,5
+1740313348675,3,HTTP Request,404,Not Found,Thread Group 1-18,text,false,,273,181,35,35,http://localhost:3001/character/3,3,0,0
+1740313348675,4,HTTP Request,200,OK,Thread Group 1-12,text,true,,278,231,34,34,http://localhost:3001/character/1,4,0,0
+1740313348676,4,HTTP Request,201,Created,Thread Group 1-24,text,true,,282,228,34,34,http://localhost:3001/character,4,0,0
+1740313348560,120,HTTP Request,200,OK,Thread Group 1-31,text,true,,959,158,34,34,http://localhost:3001/characters,120,0,5
+1740313348679,1,HTTP Request,404,Not Found,Thread Group 1-12,text,false,,273,181,34,34,http://localhost:3001/character/3,1,0,0
+1740313348677,4,HTTP Request,200,OK,Thread Group 1-27,text,true,,273,159,33,33,http://localhost:3001/character/2,4,0,0
+1740313348561,121,HTTP Request,200,OK,Thread Group 1-10,text,true,,959,158,33,33,http://localhost:3001/characters,121,0,4
+1740313348681,4,HTTP Request,201,Created,Thread Group 1-27,text,true,,282,228,34,34,http://localhost:3001/character,4,0,0
+1740313348680,5,HTTP Request,200,OK,Thread Group 1-24,text,true,,278,231,34,34,http://localhost:3001/character/1,5,0,0
+1740313348680,5,HTTP Request,200,OK,Thread Group 1-31,text,true,,273,159,34,34,http://localhost:3001/character/2,5,0,0
+1740313348560,126,HTTP Request,200,OK,Thread Group 1-21,text,true,,1002,158,34,34,http://localhost:3001/characters,126,0,5
+1740313348685,1,HTTP Request,200,OK,Thread Group 1-27,text,true,,278,231,34,34,http://localhost:3001/character/1,1,0,0
+1740313348685,2,HTTP Request,404,Not Found,Thread Group 1-24,text,false,,273,181,34,34,http://localhost:3001/character/3,2,0,0
+1740313348683,5,HTTP Request,200,OK,Thread Group 1-10,text,true,,273,159,33,33,http://localhost:3001/character/2,5,0,0
+1740313348560,130,HTTP Request,200,OK,Thread Group 1-15,text,true,,1002,158,33,33,http://localhost:3001/characters,130,0,4
+1740313348686,6,HTTP Request,404,Not Found,Thread Group 1-27,text,false,,273,181,33,33,http://localhost:3001/character/3,6,0,0
+1740313348688,4,HTTP Request,201,Created,Thread Group 1-10,text,true,,282,228,32,32,http://localhost:3001/character,4,0,0
+1740313348686,7,HTTP Request,201,Created,Thread Group 1-31,text,true,,282,228,33,33,http://localhost:3001/character,7,0,0
+1740313348686,7,HTTP Request,200,OK,Thread Group 1-21,text,true,,273,159,33,33,http://localhost:3001/character/2,7,0,0
+1740313348561,132,HTTP Request,200,OK,Thread Group 1-23,text,true,,1088,158,33,33,http://localhost:3001/characters,132,0,4
+1740313348693,1,HTTP Request,200,OK,Thread Group 1-10,text,true,,278,231,33,33,http://localhost:3001/character/1,1,0,0
+1740313348690,4,HTTP Request,200,OK,Thread Group 1-15,text,true,,273,159,33,33,http://localhost:3001/character/2,4,0,0
+1740313348560,135,HTTP Request,200,OK,Thread Group 1-2,text,true,,1088,158,33,33,http://localhost:3001/characters,135,0,6
+1740313348694,3,HTTP Request,404,Not Found,Thread Group 1-10,text,false,,273,181,33,33,http://localhost:3001/character/3,3,0,0
+1740313348694,5,HTTP Request,201,Created,Thread Group 1-15,text,true,,282,228,32,32,http://localhost:3001/character,5,0,0
+1740313348693,7,HTTP Request,201,Created,Thread Group 1-21,text,true,,282,228,32,32,http://localhost:3001/character,7,0,0
+1740313348694,6,HTTP Request,200,OK,Thread Group 1-23,text,true,,273,159,32,32,http://localhost:3001/character/2,6,0,0
+1740313348693,7,HTTP Request,200,OK,Thread Group 1-31,text,true,,278,231,32,32,http://localhost:3001/character/1,7,0,0
+1740313348561,140,HTTP Request,200,OK,Thread Group 1-9,text,true,,1174,158,32,32,http://localhost:3001/characters,140,0,4
+1740313348700,2,HTTP Request,200,OK,Thread Group 1-15,text,true,,278,231,32,32,http://localhost:3001/character/1,2,0,0
+1740313348700,2,HTTP Request,200,OK,Thread Group 1-21,text,true,,278,231,32,32,http://localhost:3001/character/1,2,0,0
+1740313348700,3,HTTP Request,201,Created,Thread Group 1-23,text,true,,282,228,32,32,http://localhost:3001/character,3,0,0
+1740313348696,7,HTTP Request,200,OK,Thread Group 1-2,text,true,,273,159,32,32,http://localhost:3001/character/2,7,0,0
+1740313348561,143,HTTP Request,200,OK,Thread Group 1-13,text,true,,1217,158,32,32,http://localhost:3001/characters,143,0,4
+1740313348702,3,HTTP Request,404,Not Found,Thread Group 1-15,text,false,,273,181,33,33,http://localhost:3001/character/3,3,0,0
+1740313348703,3,HTTP Request,404,Not Found,Thread Group 1-21,text,false,,273,181,32,32,http://localhost:3001/character/3,3,0,0
+1740313348703,3,HTTP Request,200,OK,Thread Group 1-23,text,true,,278,231,31,31,http://localhost:3001/character/1,3,0,0
+1740313348704,3,HTTP Request,201,Created,Thread Group 1-2,text,true,,282,228,31,31,http://localhost:3001/character,3,0,0
+1740313348704,4,HTTP Request,200,OK,Thread Group 1-13,text,true,,273,159,31,31,http://localhost:3001/character/2,4,0,0
+1740313348701,8,HTTP Request,404,Not Found,Thread Group 1-31,text,false,,273,181,31,31,http://localhost:3001/character/3,8,0,0
+1740313348701,8,HTTP Request,200,OK,Thread Group 1-9,text,true,,273,159,30,30,http://localhost:3001/character/2,8,0,0
+1740313348560,150,HTTP Request,200,OK,Thread Group 1-26,text,true,,1261,158,30,30,http://localhost:3001/characters,150,0,4
+1740313348707,3,HTTP Request,404,Not Found,Thread Group 1-23,text,false,,273,181,30,30,http://localhost:3001/character/3,3,0,0
+1740313348708,3,HTTP Request,200,OK,Thread Group 1-2,text,true,,278,231,29,29,http://localhost:3001/character/1,3,0,0
+1740313348708,3,HTTP Request,201,Created,Thread Group 1-13,text,true,,282,228,30,30,http://localhost:3001/character,3,0,0
+1740313348560,152,HTTP Request,200,OK,Thread Group 1-20,text,true,,1304,158,30,30,http://localhost:3001/characters,152,0,5
+1740313348711,1,HTTP Request,404,Not Found,Thread Group 1-2,text,false,,273,181,30,30,http://localhost:3001/character/3,1,0,0
+1740313348710,2,HTTP Request,201,Created,Thread Group 1-9,text,true,,282,228,29,29,http://localhost:3001/character,2,0,0
+1740313348710,3,HTTP Request,200,OK,Thread Group 1-26,text,true,,273,159,29,29,http://localhost:3001/character/2,3,0,0
+1740313348561,152,HTTP Request,200,OK,Thread Group 1-14,text,true,,1347,158,29,29,http://localhost:3001/characters,152,0,4
+1740313348711,2,HTTP Request,200,OK,Thread Group 1-13,text,true,,278,231,29,29,http://localhost:3001/character/1,2,0,0
+1740313348712,2,HTTP Request,200,OK,Thread Group 1-20,text,true,,273,159,29,29,http://localhost:3001/character/2,2,0,0
+1740313348560,155,HTTP Request,200,OK,Thread Group 1-22,text,true,,1347,158,29,29,http://localhost:3001/characters,155,0,5
+1740313348714,2,HTTP Request,404,Not Found,Thread Group 1-13,text,false,,273,181,29,29,http://localhost:3001/character/3,2,0,0
+1740313348713,3,HTTP Request,200,OK,Thread Group 1-9,text,true,,278,231,29,29,http://localhost:3001/character/1,3,0,0
+1740313348713,3,HTTP Request,201,Created,Thread Group 1-26,text,true,,282,228,28,28,http://localhost:3001/character,3,0,0
+1740313348713,3,HTTP Request,200,OK,Thread Group 1-14,text,true,,273,159,28,28,http://localhost:3001/character/2,3,0,0
+1740313348561,156,HTTP Request,200,OK,Thread Group 1-4,text,true,,1390,158,28,28,http://localhost:3001/characters,156,0,4
+1740313348717,1,HTTP Request,404,Not Found,Thread Group 1-9,text,false,,273,181,28,28,http://localhost:3001/character/3,1,0,0
+1740313348715,5,HTTP Request,200,OK,Thread Group 1-22,text,true,,273,159,27,27,http://localhost:3001/character/2,5,0,0
+1740313348715,6,HTTP Request,201,Created,Thread Group 1-20,text,true,,282,228,27,27,http://localhost:3001/character,5,0,0
+1740313348560,161,HTTP Request,200,OK,Thread Group 1-5,text,true,,1433,158,28,28,http://localhost:3001/characters,161,0,5
+1740313348720,2,HTTP Request,201,Created,Thread Group 1-22,text,true,,282,228,28,28,http://localhost:3001/character,2,0,0
+1740313348717,5,HTTP Request,201,Created,Thread Group 1-14,text,true,,282,228,28,28,http://localhost:3001/character,5,0,0
+1740313348717,6,HTTP Request,200,OK,Thread Group 1-26,text,true,,278,231,28,28,http://localhost:3001/character/1,6,0,0
+1740313348718,5,HTTP Request,200,OK,Thread Group 1-4,text,true,,273,159,28,28,http://localhost:3001/character/2,5,0,0
+1740313348560,164,HTTP Request,200,OK,Thread Group 1-7,text,true,,1519,158,28,28,http://localhost:3001/characters,164,0,5
+1740313348722,4,HTTP Request,200,OK,Thread Group 1-22,text,true,,278,231,28,28,http://localhost:3001/character/1,4,0,0
+1740313348723,3,HTTP Request,200,OK,Thread Group 1-14,text,true,,278,231,28,28,http://localhost:3001/character/1,3,0,0
+1740313348724,4,HTTP Request,404,Not Found,Thread Group 1-26,text,false,,273,181,28,28,http://localhost:3001/character/3,4,0,0
+1740313348724,5,HTTP Request,201,Created,Thread Group 1-4,text,true,,282,228,27,27,http://localhost:3001/character,5,0,0
+1740313348721,8,HTTP Request,200,OK,Thread Group 1-20,text,true,,278,231,27,27,http://localhost:3001/character/1,8,0,0
+1740313348722,10,HTTP Request,200,OK,Thread Group 1-5,text,true,,273,159,27,27,http://localhost:3001/character/2,10,0,0
+1740313348561,171,HTTP Request,200,OK,Thread Group 1-29,text,true,,1562,158,28,28,http://localhost:3001/characters,171,0,4
+1740313348726,7,HTTP Request,404,Not Found,Thread Group 1-22,text,false,,273,181,28,28,http://localhost:3001/character/3,7,0,0
+1740313348727,9,HTTP Request,404,Not Found,Thread Group 1-14,text,false,,273,181,27,27,http://localhost:3001/character/3,9,0,0
+1740313348729,8,HTTP Request,200,OK,Thread Group 1-4,text,true,,278,231,26,26,http://localhost:3001/character/1,8,0,0
+1740313348730,7,HTTP Request,404,Not Found,Thread Group 1-20,text,false,,273,181,26,26,http://localhost:3001/character/3,7,0,0
+1740313348725,12,HTTP Request,200,OK,Thread Group 1-7,text,true,,273,159,26,26,http://localhost:3001/character/2,12,0,0
+1740313348560,178,HTTP Request,200,OK,Thread Group 1-30,text,true,,1562,158,26,26,http://localhost:3001/characters,178,0,5
+1740313348737,2,HTTP Request,404,Not Found,Thread Group 1-4,text,false,,273,181,25,25,http://localhost:3001/character/3,2,0,0
+1740313348732,7,HTTP Request,201,Created,Thread Group 1-5,text,true,,282,228,25,25,http://localhost:3001/character,7,0,0
+1740313348733,6,HTTP Request,200,OK,Thread Group 1-29,text,true,,273,159,24,24,http://localhost:3001/character/2,6,0,0
+1740313348560,180,HTTP Request,200,OK,Thread Group 1-6,text,true,,1605,158,24,24,http://localhost:3001/characters,180,0,5
+1740313348739,3,HTTP Request,200,OK,Thread Group 1-5,text,true,,278,231,24,24,http://localhost:3001/character/1,3,0,0
+1740313348740,2,HTTP Request,201,Created,Thread Group 1-29,text,true,,282,228,24,24,http://localhost:3001/character,2,0,0
+1740313348738,4,HTTP Request,200,OK,Thread Group 1-30,text,true,,273,159,24,24,http://localhost:3001/character/2,4,0,0
+1740313348738,4,HTTP Request,201,Created,Thread Group 1-7,text,true,,282,228,24,24,http://localhost:3001/character,4,0,0
+1740313348560,183,HTTP Request,200,OK,Thread Group 1-3,text,true,,1691,158,24,24,http://localhost:3001/characters,183,0,5
+1740313348742,1,HTTP Request,404,Not Found,Thread Group 1-5,text,false,,273,181,24,24,http://localhost:3001/character/3,1,0,0
+1740313348742,1,HTTP Request,200,OK,Thread Group 1-29,text,true,,278,231,23,23,http://localhost:3001/character/1,1,0,0
+1740313348742,2,HTTP Request,201,Created,Thread Group 1-30,text,true,,282,228,23,23,http://localhost:3001/character,2,0,0
+1740313348741,4,HTTP Request,200,OK,Thread Group 1-6,text,true,,273,159,24,24,http://localhost:3001/character/2,4,0,0
+1740313348560,186,HTTP Request,200,OK,Thread Group 1-28,text,true,,1734,158,24,24,http://localhost:3001/characters,186,0,5
+1740313348744,2,HTTP Request,404,Not Found,Thread Group 1-29,text,false,,273,181,24,24,http://localhost:3001/character/3,2,0,0
+1740313348744,3,HTTP Request,200,OK,Thread Group 1-30,text,true,,278,231,23,23,http://localhost:3001/character/1,3,0,0
+1740313348745,2,HTTP Request,201,Created,Thread Group 1-6,text,true,,282,228,23,23,http://localhost:3001/character,2,0,0
+1740313348743,5,HTTP Request,200,OK,Thread Group 1-7,text,true,,278,231,23,23,http://localhost:3001/character/1,5,0,0
+1740313348743,6,HTTP Request,200,OK,Thread Group 1-3,text,true,,273,159,23,23,http://localhost:3001/character/2,6,0,0
+1740313348573,176,HTTP Request,200,OK,Thread Group 1-37,text,true,,1777,158,23,23,http://localhost:3001/characters,176,0,1
+1740313348747,3,HTTP Request,404,Not Found,Thread Group 1-30,text,false,,273,181,23,23,http://localhost:3001/character/3,3,0,0
+1740313348748,2,HTTP Request,200,OK,Thread Group 1-6,text,true,,278,231,22,22,http://localhost:3001/character/1,2,0,0
+1740313348748,3,HTTP Request,404,Not Found,Thread Group 1-7,text,false,,273,181,22,22,http://localhost:3001/character/3,3,0,0
+1740313348746,6,HTTP Request,200,OK,Thread Group 1-28,text,true,,273,159,21,21,http://localhost:3001/character/2,6,0,0
+1740313348585,168,HTTP Request,200,OK,Thread Group 1-38,text,true,,1777,158,22,22,http://localhost:3001/characters,168,0,0
+1740313348751,2,HTTP Request,404,Not Found,Thread Group 1-6,text,false,,273,181,22,22,http://localhost:3001/character/3,2,0,0
+1740313348753,2,HTTP Request,201,Created,Thread Group 1-28,text,true,,282,228,21,21,http://localhost:3001/character,2,0,0
+1740313348749,6,HTTP Request,201,Created,Thread Group 1-3,text,true,,282,228,21,21,http://localhost:3001/character,6,0,0
+1740313348750,6,HTTP Request,200,OK,Thread Group 1-37,text,true,,273,159,21,21,http://localhost:3001/character/2,6,0,0
+1740313348596,160,HTTP Request,200,OK,Thread Group 1-39,text,true,,1863,158,21,21,http://localhost:3001/characters,160,0,0
+1740313348755,2,HTTP Request,200,OK,Thread Group 1-28,text,true,,278,231,21,21,http://localhost:3001/character/1,2,0,0
+1740313348756,2,HTTP Request,200,OK,Thread Group 1-3,text,true,,278,231,21,21,http://localhost:3001/character/1,2,0,0
+1740313348753,5,HTTP Request,200,OK,Thread Group 1-38,text,true,,273,159,21,21,http://localhost:3001/character/2,5,0,0
+1740313348606,152,HTTP Request,200,OK,Thread Group 1-40,text,true,,1863,158,21,21,http://localhost:3001/characters,152,0,1
+1740313348757,2,HTTP Request,404,Not Found,Thread Group 1-28,text,false,,273,181,21,21,http://localhost:3001/character/3,2,0,0
+1740313348758,1,HTTP Request,404,Not Found,Thread Group 1-3,text,false,,273,181,20,20,http://localhost:3001/character/3,1,0,0
+1740313348757,3,HTTP Request,200,OK,Thread Group 1-39,text,true,,273,159,19,19,http://localhost:3001/character/2,3,0,0
+1740313348757,3,HTTP Request,201,Created,Thread Group 1-37,text,true,,282,228,19,19,http://localhost:3001/character,3,0,0
+1740313348614,146,HTTP Request,200,OK,Thread Group 1-41,text,true,,1906,158,19,19,http://localhost:3001/characters,146,0,0
+1740313348760,1,HTTP Request,201,Created,Thread Group 1-39,text,true,,282,228,20,20,http://localhost:3001/character,1,0,0
+1740313348758,3,HTTP Request,201,Created,Thread Group 1-38,text,true,,282,228,20,20,http://localhost:3001/character,3,0,0
+1740313348758,4,HTTP Request,200,OK,Thread Group 1-40,text,true,,273,159,20,20,http://localhost:3001/character/2,4,0,0
+1740313348623,140,HTTP Request,200,OK,Thread Group 1-42,text,true,,1992,158,20,20,http://localhost:3001/characters,140,0,0
+1740313348761,3,HTTP Request,200,OK,Thread Group 1-39,text,true,,278,231,20,20,http://localhost:3001/character/1,3,0,0
+1740313348762,2,HTTP Request,200,OK,Thread Group 1-38,text,true,,278,231,20,20,http://localhost:3001/character/1,2,0,0
+1740313348762,3,HTTP Request,201,Created,Thread Group 1-40,text,true,,282,228,20,20,http://localhost:3001/character,3,0,0
+1740313348763,2,HTTP Request,200,OK,Thread Group 1-42,text,true,,273,159,20,20,http://localhost:3001/character/2,2,0,0
+1740313348760,6,HTTP Request,200,OK,Thread Group 1-37,text,true,,278,231,20,20,http://localhost:3001/character/1,6,0,0
+1740313348761,5,HTTP Request,200,OK,Thread Group 1-41,text,true,,273,159,20,20,http://localhost:3001/character/2,5,0,0
+1740313348635,131,HTTP Request,200,OK,Thread Group 1-43,text,true,,2035,158,20,20,http://localhost:3001/characters,131,0,0
+1740313348764,4,HTTP Request,404,Not Found,Thread Group 1-39,text,false,,273,181,20,20,http://localhost:3001/character/3,4,0,0
+1740313348764,4,HTTP Request,404,Not Found,Thread Group 1-38,text,false,,273,181,19,19,http://localhost:3001/character/3,4,0,0
+1740313348765,3,HTTP Request,200,OK,Thread Group 1-40,text,true,,278,231,18,18,http://localhost:3001/character/1,3,0,0
+1740313348765,4,HTTP Request,201,Created,Thread Group 1-42,text,true,,282,228,18,18,http://localhost:3001/character,4,0,0
+1740313348766,3,HTTP Request,404,Not Found,Thread Group 1-37,text,false,,273,181,18,18,http://localhost:3001/character/3,3,0,0
+1740313348646,124,HTTP Request,200,OK,Thread Group 1-44,text,true,,2078,158,17,17,http://localhost:3001/characters,124,0,0
+1740313348769,1,HTTP Request,404,Not Found,Thread Group 1-40,text,false,,273,181,17,17,http://localhost:3001/character/3,1,0,0
+1740313348769,2,HTTP Request,200,OK,Thread Group 1-42,text,true,,278,231,16,16,http://localhost:3001/character/1,2,0,0
+1740313348766,5,HTTP Request,200,OK,Thread Group 1-43,text,true,,273,159,16,16,http://localhost:3001/character/2,5,0,0
+1740313348767,4,HTTP Request,201,Created,Thread Group 1-41,text,true,,282,228,16,16,http://localhost:3001/character,4,0,0
+1740313348652,120,HTTP Request,200,OK,Thread Group 1-45,text,true,,2121,158,17,17,http://localhost:3001/characters,120,0,0
+1740313348771,2,HTTP Request,404,Not Found,Thread Group 1-42,text,false,,273,181,17,17,http://localhost:3001/character/3,2,0,0
+1740313348771,3,HTTP Request,201,Created,Thread Group 1-43,text,true,,282,228,16,16,http://localhost:3001/character,3,0,0
+1740313348771,3,HTTP Request,200,OK,Thread Group 1-41,text,true,,278,231,16,16,http://localhost:3001/character/1,3,0,0
+1740313348772,3,HTTP Request,200,OK,Thread Group 1-45,text,true,,273,159,16,16,http://localhost:3001/character/2,3,0,0
+1740313348770,5,HTTP Request,200,OK,Thread Group 1-44,text,true,,273,159,16,16,http://localhost:3001/character/2,5,0,0
+1740313348663,113,HTTP Request,200,OK,Thread Group 1-46,text,true,,2164,158,16,16,http://localhost:3001/characters,113,0,0
+1740313348774,3,HTTP Request,200,OK,Thread Group 1-43,text,true,,278,231,16,16,http://localhost:3001/character/1,3,0,0
+1740313348775,2,HTTP Request,404,Not Found,Thread Group 1-41,text,false,,273,181,16,16,http://localhost:3001/character/3,2,0,0
+1740313348775,2,HTTP Request,201,Created,Thread Group 1-45,text,true,,282,228,15,15,http://localhost:3001/character,2,0,0
+1740313348776,2,HTTP Request,201,Created,Thread Group 1-44,text,true,,282,228,15,15,http://localhost:3001/character,2,0,0
+1740313348776,2,HTTP Request,200,OK,Thread Group 1-46,text,true,,273,159,15,15,http://localhost:3001/character/2,2,0,0
+1740313348676,102,HTTP Request,200,OK,Thread Group 1-47,text,true,,2250,158,15,15,http://localhost:3001/characters,102,0,1
+1740313348777,2,HTTP Request,404,Not Found,Thread Group 1-43,text,false,,273,181,15,15,http://localhost:3001/character/3,2,0,0
+1740313348777,2,HTTP Request,200,OK,Thread Group 1-45,text,true,,278,231,14,14,http://localhost:3001/character/1,2,0,0
+1740313348778,1,HTTP Request,200,OK,Thread Group 1-44,text,true,,278,231,14,14,http://localhost:3001/character/1,1,0,0
+1740313348684,96,HTTP Request,200,OK,Thread Group 1-48,text,true,,2250,158,14,14,http://localhost:3001/characters,96,0,0
+1740313348779,2,HTTP Request,404,Not Found,Thread Group 1-45,text,false,,273,181,14,14,http://localhost:3001/character/3,2,0,0
+1740313348779,2,HTTP Request,404,Not Found,Thread Group 1-44,text,false,,273,181,14,14,http://localhost:3001/character/3,2,0,0
+1740313348778,4,HTTP Request,201,Created,Thread Group 1-46,text,true,,282,228,13,13,http://localhost:3001/character,4,0,0
+1740313348778,4,HTTP Request,200,OK,Thread Group 1-47,text,true,,273,159,13,13,http://localhost:3001/character/2,4,0,0
+1740313348693,89,HTTP Request,200,OK,Thread Group 1-49,text,true,,2293,158,13,13,http://localhost:3001/characters,89,0,1
+1740313348782,2,HTTP Request,200,OK,Thread Group 1-46,text,true,,278,231,13,13,http://localhost:3001/character/1,2,0,0
+1740313348782,2,HTTP Request,201,Created,Thread Group 1-47,text,true,,282,228,13,13,http://localhost:3001/character,2,0,0
+1740313348783,1,HTTP Request,200,OK,Thread Group 1-49,text,true,,273,159,13,13,http://localhost:3001/character/2,1,0,0
+1740313348780,5,HTTP Request,200,OK,Thread Group 1-48,text,true,,273,159,13,13,http://localhost:3001/character/2,4,0,0
+1740313348705,80,HTTP Request,200,OK,Thread Group 1-50,text,true,,2336,158,13,13,http://localhost:3001/characters,80,0,0
+1740313348784,2,HTTP Request,404,Not Found,Thread Group 1-46,text,false,,273,181,13,13,http://localhost:3001/character/3,2,0,0
+1740313348784,2,HTTP Request,200,OK,Thread Group 1-47,text,true,,278,231,12,12,http://localhost:3001/character/1,2,0,0
+1740313348785,1,HTTP Request,201,Created,Thread Group 1-49,text,true,,282,228,12,12,http://localhost:3001/character,1,0,0
+1740313348785,1,HTTP Request,201,Created,Thread Group 1-48,text,true,,282,228,12,12,http://localhost:3001/character,1,0,0
+1740313348712,75,HTTP Request,200,OK,Thread Group 1-51,text,true,,2422,158,12,12,http://localhost:3001/characters,75,0,0
+1740313348786,1,HTTP Request,404,Not Found,Thread Group 1-47,text,false,,273,181,12,12,http://localhost:3001/character/3,1,0,0
+1740313348786,2,HTTP Request,200,OK,Thread Group 1-49,text,true,,278,231,11,11,http://localhost:3001/character/1,2,0,0
+1740313348785,3,HTTP Request,200,OK,Thread Group 1-50,text,true,,273,159,11,11,http://localhost:3001/character/2,3,0,0
+1740313348721,67,HTTP Request,200,OK,Thread Group 1-52,text,true,,2422,158,11,11,http://localhost:3001/characters,67,0,1
+1740313348788,1,HTTP Request,201,Created,Thread Group 1-50,text,true,,282,228,11,11,http://localhost:3001/character,1,0,0
+1740313348787,2,HTTP Request,200,OK,Thread Group 1-48,text,true,,278,231,11,11,http://localhost:3001/character/1,2,0,0
+1740313348787,2,HTTP Request,200,OK,Thread Group 1-51,text,true,,273,159,11,11,http://localhost:3001/character/2,2,0,0
+1740313348732,58,HTTP Request,200,OK,Thread Group 1-53,text,true,,2465,158,11,11,http://localhost:3001/characters,58,0,1
+1740313348789,1,HTTP Request,200,OK,Thread Group 1-50,text,true,,278,231,11,11,http://localhost:3001/character/1,1,0,0
+1740313348789,2,HTTP Request,404,Not Found,Thread Group 1-48,text,false,,273,181,11,11,http://localhost:3001/character/3,2,0,0
+1740313348788,3,HTTP Request,200,OK,Thread Group 1-52,text,true,,273,159,10,10,http://localhost:3001/character/2,3,0,0
+1740313348788,4,HTTP Request,404,Not Found,Thread Group 1-49,text,false,,273,181,10,10,http://localhost:3001/character/3,4,0,0
+1740313348744,49,HTTP Request,200,OK,Thread Group 1-54,text,true,,2465,158,9,9,http://localhost:3001/characters,49,0,1
+1740313348791,4,HTTP Request,404,Not Found,Thread Group 1-50,text,false,,273,181,10,10,http://localhost:3001/character/3,4,0,0
+1740313348792,4,HTTP Request,201,Created,Thread Group 1-52,text,true,,282,228,9,9,http://localhost:3001/character,4,0,0
+1740313348790,6,HTTP Request,201,Created,Thread Group 1-51,text,true,,282,228,9,9,http://localhost:3001/character,6,0,0
+1740313348790,6,HTTP Request,200,OK,Thread Group 1-53,text,true,,273,159,9,9,http://localhost:3001/character/2,6,0,0
+1740313348753,44,HTTP Request,200,OK,Thread Group 1-55,text,true,,2551,158,9,9,http://localhost:3001/characters,44,0,0
+1740313348796,2,HTTP Request,200,OK,Thread Group 1-52,text,true,,278,231,9,9,http://localhost:3001/character/1,2,0,0
+1740313348796,2,HTTP Request,200,OK,Thread Group 1-51,text,true,,278,231,9,9,http://localhost:3001/character/1,2,0,0
+1740313348797,2,HTTP Request,201,Created,Thread Group 1-53,text,true,,282,228,9,9,http://localhost:3001/character,2,0,0
+1740313348793,6,HTTP Request,200,OK,Thread Group 1-54,text,true,,273,159,9,9,http://localhost:3001/character/2,6,0,0
+1740313348761,38,HTTP Request,200,OK,Thread Group 1-56,text,true,,2594,158,9,9,http://localhost:3001/characters,38,0,0
+1740313348798,2,HTTP Request,404,Not Found,Thread Group 1-52,text,false,,273,181,9,9,http://localhost:3001/character/3,2,0,0
+1740313348798,2,HTTP Request,404,Not Found,Thread Group 1-51,text,false,,273,181,9,9,http://localhost:3001/character/3,2,0,0
+1740313348799,1,HTTP Request,200,OK,Thread Group 1-53,text,true,,278,231,7,7,http://localhost:3001/character/1,1,0,0
+1740313348797,4,HTTP Request,200,OK,Thread Group 1-55,text,true,,273,159,7,7,http://localhost:3001/character/2,4,0,0
+1740313348771,30,HTTP Request,200,OK,Thread Group 1-57,text,true,,2594,158,7,7,http://localhost:3001/characters,30,0,1
+1740313348801,0,HTTP Request,404,Not Found,Thread Group 1-53,text,false,,273,181,7,7,http://localhost:3001/character/3,0,0,0
+1740313348799,3,HTTP Request,201,Created,Thread Group 1-54,text,true,,282,228,6,6,http://localhost:3001/character,3,0,0
+1740313348800,2,HTTP Request,200,OK,Thread Group 1-56,text,true,,273,159,6,6,http://localhost:3001/character/2,2,0,0
+1740313348781,22,HTTP Request,200,OK,Thread Group 1-58,text,true,,2637,158,6,6,http://localhost:3001/characters,22,0,1
+1740313348802,1,HTTP Request,200,OK,Thread Group 1-54,text,true,,278,231,6,6,http://localhost:3001/character/1,1,0,0
+1740313348803,1,HTTP Request,201,Created,Thread Group 1-56,text,true,,282,228,6,6,http://localhost:3001/character,1,0,0
+1740313348801,3,HTTP Request,201,Created,Thread Group 1-55,text,true,,282,228,6,6,http://localhost:3001/character,3,0,0
+1740313348801,3,HTTP Request,200,OK,Thread Group 1-57,text,true,,273,159,6,6,http://localhost:3001/character/2,3,0,0
+1740313348794,10,HTTP Request,200,OK,Thread Group 1-59,text,true,,2723,158,6,6,http://localhost:3001/characters,10,0,1
+1740313348804,1,HTTP Request,404,Not Found,Thread Group 1-54,text,false,,273,181,6,6,http://localhost:3001/character/3,1,0,0
+1740313348804,1,HTTP Request,200,OK,Thread Group 1-56,text,true,,278,231,5,5,http://localhost:3001/character/1,1,0,0
+1740313348804,2,HTTP Request,200,OK,Thread Group 1-55,text,true,,278,231,6,6,http://localhost:3001/character/1,1,0,0
+1740313348804,3,HTTP Request,201,Created,Thread Group 1-57,text,true,,282,228,6,6,http://localhost:3001/character,3,0,0
+1740313348803,4,HTTP Request,200,OK,Thread Group 1-58,text,true,,273,159,6,6,http://localhost:3001/character/2,4,0,0
+1740313348805,3,HTTP Request,404,Not Found,Thread Group 1-56,text,false,,273,181,6,6,http://localhost:3001/character/3,3,0,0
+1740313348806,2,HTTP Request,404,Not Found,Thread Group 1-55,text,false,,273,181,5,5,http://localhost:3001/character/3,2,0,0
+1740313348807,1,HTTP Request,200,OK,Thread Group 1-57,text,true,,278,231,5,5,http://localhost:3001/character/1,1,0,0
+1740313348804,5,HTTP Request,200,OK,Thread Group 1-59,text,true,,273,159,5,5,http://localhost:3001/character/2,5,0,0
+1740313348807,2,HTTP Request,201,Created,Thread Group 1-58,text,true,,282,228,4,4,http://localhost:3001/character,2,0,0
+1740313348806,5,HTTP Request,200,OK,Thread Group 1-60,text,true,,2809,158,4,4,http://localhost:3001/characters,5,0,0
+1740313348809,2,HTTP Request,200,OK,Thread Group 1-58,text,true,,278,231,4,4,http://localhost:3001/character/1,2,0,0
+1740313348809,3,HTTP Request,404,Not Found,Thread Group 1-57,text,false,,273,181,5,5,http://localhost:3001/character/3,3,0,0
+1740313348809,3,HTTP Request,201,Created,Thread Group 1-59,text,true,,282,228,5,5,http://localhost:3001/character,3,0,0
+1740313348812,1,HTTP Request,404,Not Found,Thread Group 1-58,text,false,,273,181,4,4,http://localhost:3001/character/3,0,0,0
+1740313348811,2,HTTP Request,200,OK,Thread Group 1-60,text,true,,273,159,3,3,http://localhost:3001/character/2,2,0,0
+1740313348813,1,HTTP Request,201,Created,Thread Group 1-60,text,true,,282,228,3,3,http://localhost:3001/character,1,0,0
+1740313348813,1,HTTP Request,200,OK,Thread Group 1-59,text,true,,278,231,3,3,http://localhost:3001/character/1,1,0,0
+1740313348812,2,HTTP Request,200,OK,Thread Group 1-61,text,true,,2895,158,3,3,http://localhost:3001/characters,2,0,0
+1740313348814,1,HTTP Request,200,OK,Thread Group 1-60,text,true,,278,231,3,3,http://localhost:3001/character/1,1,0,0
+1740313348814,1,HTTP Request,404,Not Found,Thread Group 1-59,text,false,,273,181,3,3,http://localhost:3001/character/3,1,0,0
+1740313348814,1,HTTP Request,200,OK,Thread Group 1-61,text,true,,273,159,3,3,http://localhost:3001/character/2,1,0,0
+1740313348815,1,HTTP Request,404,Not Found,Thread Group 1-60,text,false,,273,181,2,2,http://localhost:3001/character/3,1,0,0
+1740313348815,1,HTTP Request,201,Created,Thread Group 1-61,text,true,,282,228,2,2,http://localhost:3001/character,1,0,0
+1740313348816,1,HTTP Request,200,OK,Thread Group 1-61,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313348817,1,HTTP Request,404,Not Found,Thread Group 1-61,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313348824,1,HTTP Request,200,OK,Thread Group 1-62,text,true,,2938,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348826,0,HTTP Request,200,OK,Thread Group 1-62,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313348826,1,HTTP Request,201,Created,Thread Group 1-62,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348827,0,HTTP Request,200,OK,Thread Group 1-62,text,true,,278,231,1,1,http://localhost:3001/character/1,0,0,0
+1740313348827,1,HTTP Request,404,Not Found,Thread Group 1-62,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313348837,1,HTTP Request,200,OK,Thread Group 1-63,text,true,,2981,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348838,1,HTTP Request,200,OK,Thread Group 1-63,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313348839,1,HTTP Request,201,Created,Thread Group 1-63,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348840,1,HTTP Request,200,OK,Thread Group 1-63,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313348841,1,HTTP Request,404,Not Found,Thread Group 1-63,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313348844,1,HTTP Request,200,OK,Thread Group 1-64,text,true,,3024,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348845,1,HTTP Request,200,OK,Thread Group 1-64,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313348846,1,HTTP Request,201,Created,Thread Group 1-64,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348847,2,HTTP Request,200,OK,Thread Group 1-64,text,true,,278,231,1,1,http://localhost:3001/character/1,2,0,0
+1740313348849,1,HTTP Request,404,Not Found,Thread Group 1-64,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313348857,1,HTTP Request,200,OK,Thread Group 1-65,text,true,,3067,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348858,1,HTTP Request,200,OK,Thread Group 1-65,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313348859,1,HTTP Request,201,Created,Thread Group 1-65,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348861,0,HTTP Request,200,OK,Thread Group 1-65,text,true,,278,231,1,1,http://localhost:3001/character/1,0,0,0
+1740313348861,1,HTTP Request,404,Not Found,Thread Group 1-65,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313348867,1,HTTP Request,200,OK,Thread Group 1-66,text,true,,3110,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348868,1,HTTP Request,200,OK,Thread Group 1-66,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313348869,1,HTTP Request,201,Created,Thread Group 1-66,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348870,1,HTTP Request,200,OK,Thread Group 1-66,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313348871,0,HTTP Request,404,Not Found,Thread Group 1-66,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313348874,1,HTTP Request,200,OK,Thread Group 1-67,text,true,,3153,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348875,0,HTTP Request,200,OK,Thread Group 1-67,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313348876,0,HTTP Request,201,Created,Thread Group 1-67,text,true,,282,228,1,1,http://localhost:3001/character,0,0,0
+1740313348876,1,HTTP Request,200,OK,Thread Group 1-67,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313348877,0,HTTP Request,404,Not Found,Thread Group 1-67,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313348882,1,HTTP Request,200,OK,Thread Group 1-68,text,true,,3196,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348883,1,HTTP Request,200,OK,Thread Group 1-68,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313348884,1,HTTP Request,201,Created,Thread Group 1-68,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348885,1,HTTP Request,200,OK,Thread Group 1-68,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313348886,0,HTTP Request,404,Not Found,Thread Group 1-68,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313348897,1,HTTP Request,200,OK,Thread Group 1-69,text,true,,3239,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348899,1,HTTP Request,200,OK,Thread Group 1-69,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313348900,1,HTTP Request,201,Created,Thread Group 1-69,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348901,1,HTTP Request,200,OK,Thread Group 1-69,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313348902,1,HTTP Request,404,Not Found,Thread Group 1-69,text,false,,273,181,2,2,http://localhost:3001/character/3,1,0,0
+1740313348902,1,HTTP Request,200,OK,Thread Group 1-70,text,true,,3282,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348903,1,HTTP Request,200,OK,Thread Group 1-70,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313348904,1,HTTP Request,201,Created,Thread Group 1-70,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348905,0,HTTP Request,200,OK,Thread Group 1-70,text,true,,278,231,1,1,http://localhost:3001/character/1,0,0,0
+1740313348905,1,HTTP Request,404,Not Found,Thread Group 1-70,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313348913,1,HTTP Request,200,OK,Thread Group 1-71,text,true,,3325,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348915,0,HTTP Request,200,OK,Thread Group 1-71,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313348915,1,HTTP Request,201,Created,Thread Group 1-71,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348916,0,HTTP Request,200,OK,Thread Group 1-71,text,true,,278,231,1,1,http://localhost:3001/character/1,0,0,0
+1740313348917,0,HTTP Request,404,Not Found,Thread Group 1-71,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313348923,2,HTTP Request,200,OK,Thread Group 1-72,text,true,,3368,158,1,1,http://localhost:3001/characters,2,0,1
+1740313348925,0,HTTP Request,200,OK,Thread Group 1-72,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313348925,1,HTTP Request,201,Created,Thread Group 1-72,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348926,0,HTTP Request,200,OK,Thread Group 1-72,text,true,,278,231,1,1,http://localhost:3001/character/1,0,0,0
+1740313348927,0,HTTP Request,404,Not Found,Thread Group 1-72,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313348933,1,HTTP Request,200,OK,Thread Group 1-73,text,true,,3411,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348934,1,HTTP Request,200,OK,Thread Group 1-73,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313348935,1,HTTP Request,201,Created,Thread Group 1-73,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348936,1,HTTP Request,200,OK,Thread Group 1-73,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313348937,1,HTTP Request,404,Not Found,Thread Group 1-73,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313348946,1,HTTP Request,200,OK,Thread Group 1-74,text,true,,3454,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348947,1,HTTP Request,200,OK,Thread Group 1-74,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313348948,1,HTTP Request,201,Created,Thread Group 1-74,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348949,1,HTTP Request,200,OK,Thread Group 1-74,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313348950,0,HTTP Request,404,Not Found,Thread Group 1-74,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313348953,1,HTTP Request,200,OK,Thread Group 1-75,text,true,,3497,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348954,1,HTTP Request,200,OK,Thread Group 1-75,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313348955,1,HTTP Request,201,Created,Thread Group 1-75,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348956,0,HTTP Request,200,OK,Thread Group 1-75,text,true,,278,231,1,1,http://localhost:3001/character/1,0,0,0
+1740313348957,0,HTTP Request,404,Not Found,Thread Group 1-75,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313348962,1,HTTP Request,200,OK,Thread Group 1-76,text,true,,3540,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348963,0,HTTP Request,200,OK,Thread Group 1-76,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313348963,1,HTTP Request,201,Created,Thread Group 1-76,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348964,1,HTTP Request,200,OK,Thread Group 1-76,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313348965,0,HTTP Request,404,Not Found,Thread Group 1-76,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313348973,1,HTTP Request,200,OK,Thread Group 1-77,text,true,,3583,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348975,0,HTTP Request,200,OK,Thread Group 1-77,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313348975,1,HTTP Request,201,Created,Thread Group 1-77,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348976,1,HTTP Request,200,OK,Thread Group 1-77,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313348977,1,HTTP Request,404,Not Found,Thread Group 1-77,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313348984,1,HTTP Request,200,OK,Thread Group 1-78,text,true,,3626,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348985,1,HTTP Request,200,OK,Thread Group 1-78,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313348986,0,HTTP Request,201,Created,Thread Group 1-78,text,true,,282,228,1,1,http://localhost:3001/character,0,0,0
+1740313348986,1,HTTP Request,200,OK,Thread Group 1-78,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313348987,0,HTTP Request,404,Not Found,Thread Group 1-78,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313348996,1,HTTP Request,200,OK,Thread Group 1-79,text,true,,3669,158,1,1,http://localhost:3001/characters,1,0,0
+1740313348997,1,HTTP Request,200,OK,Thread Group 1-79,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313348998,1,HTTP Request,201,Created,Thread Group 1-79,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313348999,1,HTTP Request,200,OK,Thread Group 1-79,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349000,0,HTTP Request,404,Not Found,Thread Group 1-79,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313349001,1,HTTP Request,200,OK,Thread Group 1-80,text,true,,3712,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349002,1,HTTP Request,200,OK,Thread Group 1-80,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313349003,1,HTTP Request,201,Created,Thread Group 1-80,text,true,,282,228,1,1,http://localhost:3001/character,0,0,0
+1740313349004,0,HTTP Request,200,OK,Thread Group 1-80,text,true,,278,231,1,1,http://localhost:3001/character/1,0,0,0
+1740313349004,1,HTTP Request,404,Not Found,Thread Group 1-80,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313349014,1,HTTP Request,200,OK,Thread Group 1-81,text,true,,3755,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349015,1,HTTP Request,200,OK,Thread Group 1-81,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313349016,0,HTTP Request,201,Created,Thread Group 1-81,text,true,,282,228,1,1,http://localhost:3001/character,0,0,0
+1740313349016,1,HTTP Request,200,OK,Thread Group 1-81,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349017,1,HTTP Request,404,Not Found,Thread Group 1-81,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313349026,2,HTTP Request,200,OK,Thread Group 1-82,text,true,,3798,158,1,1,http://localhost:3001/characters,2,0,0
+1740313349028,0,HTTP Request,200,OK,Thread Group 1-82,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313349028,1,HTTP Request,201,Created,Thread Group 1-82,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313349029,1,HTTP Request,200,OK,Thread Group 1-82,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349030,0,HTTP Request,404,Not Found,Thread Group 1-82,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313349035,1,HTTP Request,200,OK,Thread Group 1-83,text,true,,3841,158,1,1,http://localhost:3001/characters,1,0,1
+1740313349037,0,HTTP Request,200,OK,Thread Group 1-83,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313349037,1,HTTP Request,201,Created,Thread Group 1-83,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313349038,0,HTTP Request,200,OK,Thread Group 1-83,text,true,,278,231,1,1,http://localhost:3001/character/1,0,0,0
+1740313349039,0,HTTP Request,404,Not Found,Thread Group 1-83,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313349046,0,HTTP Request,200,OK,Thread Group 1-84,text,true,,3884,158,1,1,http://localhost:3001/characters,0,0,0
+1740313349047,1,HTTP Request,200,OK,Thread Group 1-84,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313349048,1,HTTP Request,201,Created,Thread Group 1-84,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313349056,0,HTTP Request,200,OK,Thread Group 1-84,text,true,,278,231,2,2,http://localhost:3001/character/1,0,0,0
+1740313349056,1,HTTP Request,200,OK,Thread Group 1-85,text,true,,3927,158,2,2,http://localhost:3001/characters,1,0,0
+1740313349057,1,HTTP Request,404,Not Found,Thread Group 1-84,text,false,,273,181,2,2,http://localhost:3001/character/3,1,0,0
+1740313349057,1,HTTP Request,200,OK,Thread Group 1-85,text,true,,273,159,2,2,http://localhost:3001/character/2,1,0,0
+1740313349058,1,HTTP Request,201,Created,Thread Group 1-85,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313349059,1,HTTP Request,200,OK,Thread Group 1-85,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349060,0,HTTP Request,404,Not Found,Thread Group 1-85,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313349061,1,HTTP Request,200,OK,Thread Group 1-86,text,true,,3970,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349062,0,HTTP Request,200,OK,Thread Group 1-86,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313349063,1,HTTP Request,201,Created,Thread Group 1-86,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313349064,1,HTTP Request,200,OK,Thread Group 1-86,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349065,1,HTTP Request,404,Not Found,Thread Group 1-86,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313349076,1,HTTP Request,200,OK,Thread Group 1-87,text,true,,4013,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349077,1,HTTP Request,200,OK,Thread Group 1-87,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313349078,1,HTTP Request,201,Created,Thread Group 1-87,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313349079,1,HTTP Request,200,OK,Thread Group 1-87,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349080,1,HTTP Request,404,Not Found,Thread Group 1-87,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313349082,1,HTTP Request,200,OK,Thread Group 1-88,text,true,,4056,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349083,1,HTTP Request,200,OK,Thread Group 1-88,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313349084,0,HTTP Request,201,Created,Thread Group 1-88,text,true,,282,228,1,1,http://localhost:3001/character,0,0,0
+1740313349084,1,HTTP Request,200,OK,Thread Group 1-88,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349085,1,HTTP Request,404,Not Found,Thread Group 1-88,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313349094,1,HTTP Request,200,OK,Thread Group 1-89,text,true,,4099,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349095,1,HTTP Request,200,OK,Thread Group 1-89,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313349096,0,HTTP Request,201,Created,Thread Group 1-89,text,true,,282,228,1,1,http://localhost:3001/character,0,0,0
+1740313349096,1,HTTP Request,200,OK,Thread Group 1-89,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349097,1,HTTP Request,404,Not Found,Thread Group 1-89,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313349106,1,HTTP Request,200,OK,Thread Group 1-90,text,true,,4142,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349107,1,HTTP Request,200,OK,Thread Group 1-90,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313349108,1,HTTP Request,201,Created,Thread Group 1-90,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313349109,1,HTTP Request,200,OK,Thread Group 1-90,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349110,0,HTTP Request,404,Not Found,Thread Group 1-90,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313349116,1,HTTP Request,200,OK,Thread Group 1-91,text,true,,4185,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349117,0,HTTP Request,200,OK,Thread Group 1-91,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313349118,0,HTTP Request,201,Created,Thread Group 1-91,text,true,,282,228,1,1,http://localhost:3001/character,0,0,0
+1740313349118,1,HTTP Request,200,OK,Thread Group 1-91,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349119,0,HTTP Request,404,Not Found,Thread Group 1-91,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313349122,1,HTTP Request,200,OK,Thread Group 1-92,text,true,,4228,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349123,0,HTTP Request,200,OK,Thread Group 1-92,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313349123,1,HTTP Request,201,Created,Thread Group 1-92,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313349124,1,HTTP Request,200,OK,Thread Group 1-92,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349125,1,HTTP Request,404,Not Found,Thread Group 1-92,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313349136,1,HTTP Request,200,OK,Thread Group 1-93,text,true,,4271,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349137,1,HTTP Request,200,OK,Thread Group 1-93,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313349138,0,HTTP Request,201,Created,Thread Group 1-93,text,true,,282,228,1,1,http://localhost:3001/character,0,0,0
+1740313349138,1,HTTP Request,200,OK,Thread Group 1-93,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349139,0,HTTP Request,404,Not Found,Thread Group 1-93,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313349143,1,HTTP Request,200,OK,Thread Group 1-94,text,true,,4314,158,1,1,http://localhost:3001/characters,1,0,1
+1740313349145,0,HTTP Request,200,OK,Thread Group 1-94,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313349145,1,HTTP Request,201,Created,Thread Group 1-94,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313349146,1,HTTP Request,200,OK,Thread Group 1-94,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349147,0,HTTP Request,404,Not Found,Thread Group 1-94,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313349151,1,HTTP Request,200,OK,Thread Group 1-95,text,true,,4358,158,1,1,http://localhost:3001/characters,1,0,1
+1740313349153,0,HTTP Request,200,OK,Thread Group 1-95,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313349153,1,HTTP Request,201,Created,Thread Group 1-95,text,true,,282,228,1,1,http://localhost:3001/character,1,0,0
+1740313349154,0,HTTP Request,200,OK,Thread Group 1-95,text,true,,278,231,1,1,http://localhost:3001/character/1,0,0,0
+1740313349154,1,HTTP Request,404,Not Found,Thread Group 1-95,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313349166,1,HTTP Request,200,OK,Thread Group 1-96,text,true,,4401,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349167,1,HTTP Request,200,OK,Thread Group 1-96,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313349168,0,HTTP Request,201,Created,Thread Group 1-96,text,true,,282,228,1,1,http://localhost:3001/character,0,0,0
+1740313349169,0,HTTP Request,200,OK,Thread Group 1-96,text,true,,278,231,1,1,http://localhost:3001/character/1,0,0,0
+1740313349169,1,HTTP Request,404,Not Found,Thread Group 1-96,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313349172,1,HTTP Request,200,OK,Thread Group 1-97,text,true,,4444,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349173,0,HTTP Request,200,OK,Thread Group 1-97,text,true,,273,159,1,1,http://localhost:3001/character/2,0,0,0
+1740313349174,0,HTTP Request,201,Created,Thread Group 1-97,text,true,,282,228,1,1,http://localhost:3001/character,0,0,0
+1740313349174,1,HTTP Request,200,OK,Thread Group 1-97,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349175,0,HTTP Request,404,Not Found,Thread Group 1-97,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
+1740313349187,1,HTTP Request,200,OK,Thread Group 1-98,text,true,,4487,158,1,1,http://localhost:3001/characters,1,0,0
+1740313349188,1,HTTP Request,200,OK,Thread Group 1-98,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313349189,0,HTTP Request,201,Created,Thread Group 1-98,text,true,,283,228,1,1,http://localhost:3001/character,0,0,0
+1740313349189,1,HTTP Request,200,OK,Thread Group 1-98,text,true,,278,231,1,1,http://localhost:3001/character/1,1,0,0
+1740313349190,1,HTTP Request,404,Not Found,Thread Group 1-98,text,false,,273,181,1,1,http://localhost:3001/character/3,1,0,0
+1740313349195,3,HTTP Request,200,OK,Thread Group 1-99,text,true,,4531,158,1,1,http://localhost:3001/characters,3,0,1
+1740313349198,4,HTTP Request,200,OK,Thread Group 1-99,text,true,,273,159,1,1,http://localhost:3001/character/2,4,0,0
+1740313349202,1,HTTP Request,201,Created,Thread Group 1-99,text,true,,283,228,1,1,http://localhost:3001/character,1,0,0
+1740313349203,3,HTTP Request,200,OK,Thread Group 1-99,text,true,,278,231,2,2,http://localhost:3001/character/1,3,0,0
+1740313349203,3,HTTP Request,200,OK,Thread Group 1-100,text,true,,4575,158,2,2,http://localhost:3001/characters,3,0,0
+1740313349206,1,HTTP Request,404,Not Found,Thread Group 1-99,text,false,,273,181,2,2,http://localhost:3001/character/3,1,0,0
+1740313349206,1,HTTP Request,200,OK,Thread Group 1-100,text,true,,273,159,1,1,http://localhost:3001/character/2,1,0,0
+1740313349207,1,HTTP Request,201,Created,Thread Group 1-100,text,true,,283,228,1,1,http://localhost:3001/character,1,0,0
+1740313349208,0,HTTP Request,200,OK,Thread Group 1-100,text,true,,278,231,1,1,http://localhost:3001/character/1,0,0,0
+1740313349209,0,HTTP Request,404,Not Found,Thread Group 1-100,text,false,,273,181,1,1,http://localhost:3001/character/3,0,0,0
